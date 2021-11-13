@@ -1,3 +1,6 @@
+<h3 align="center">
+        <a target="_blank" href='https://drive.google.com/drive/folders/1DhWKRzkt6dOHybmXZW2pMWaWuumNAWI_?usp=sharing'>Link to Project Screenshots</a>
+</h3>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
