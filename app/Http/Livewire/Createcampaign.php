@@ -27,11 +27,11 @@ class Createcampaign extends Component
            //    dd($this->user_id);
 
             $validate_data = [
-                'campaign_name' => 'required',
-                'date_from' => 'required',
-                'date_to' => 'required',
-                'total_budget' => 'required',
-                'daily_budget' => 'required'
+                'campaign_name'=>'required|max:255', 
+                'date_from'=>'required|date', 
+                'date_to'=>'required|date', 
+                'daily_budget'=>'required|numeric|min:0.0', 
+                'total_budget'=>'required|numeric|min:0.0'
                 // 'creative_uploads' =>'image'
             ];
 
